@@ -2476,7 +2476,7 @@ overflow: scroll;
   .card{
     position: relative;
     right: 40%;
-    min-width: 270px;
+    min-width: 290px;
     height: auto;
     background: linear-gradient(-45deg, #fe0847, #feae3f);
     border-radius: 15px;
