@@ -2485,12 +2485,13 @@ overflow: scroll;
     box-shadow: 0 10px 15px rgba(0,0,0,.3);
     transition: .5s;
     overflow: hidden;
-    margin-left: 35%;
+    margin-left: 26%;
     /* text-shadow: 0 0 black; */  
   }
     
     #prices {
         height: 1500px !important;
+	width: 100vw;    
     }
 }
 
