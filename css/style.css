@@ -2490,7 +2490,7 @@ overflow: scroll;
   }
     
     #prices {
-        height: 1500px !important;
+        height: 1000px !important;
 	width: 100vw;    
     }
 }
